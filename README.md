@@ -1,4 +1,4 @@
-# make this readme mark down better with links of mods "🧩 Mod installate:
+# MD of mods used "🧩 Mod installate:
 
 Create
 
